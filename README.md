@@ -2,7 +2,7 @@
 A muted [catppuccin](https://catppuccin.com/palette/) experience following the [style guide](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md) for the fluxer application featuring a familiar blue branding.
 
 This is a **highly experimental and a work in progress** by me. If any elements seem wildly out of place or do not make much sense, please open an issue and i will address as soon as possible :) 
-
+![alt text](https://github.com/SpaceSnek/fluxer-catppuccin-mocha/blob/main/imgs/Showcase.png "Sample Image")
 ---
 
 ## How to use this? 
